@@ -2,7 +2,7 @@
   <div>
     <form class="grid place-content-center mt-32">
       <div class="flex">
-        <NuxtLink :to="{ path: 'index' }">
+        <NuxtLink :to="{ path: 'movies' }">
           <h1 class="me-20  mt-4">Inicio</h1>
         </NuxtLink>
         <input
